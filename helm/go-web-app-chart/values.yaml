@@ -8,7 +8,7 @@ image:
   repository: tenhag/go-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "15956262532"
+  tag: "v1"
 
 ingress:
   enabled: false
